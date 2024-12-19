@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101719017879",
+    "project_id": "performace-tracking-app",
+    "storage_bucket": "performace-tracking-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101719017879:android:f7dd2b7d72bd5ecea8dcd2",
+        "android_client_info": {
+          "package_name": "WDLR.Tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ELoHhQW2GzGtPhLvF0uX0OMYp1nuLMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
